@@ -1,7 +1,7 @@
 <h2>About</h2>
 
 <p>The dashboard provides a summary of your Ep Ops upgrade progress. Use this dashboard to easily discover instances of where the Ep Ops Agent is installed but running on a version below version 7.5.</p>
-<a href="https://github.com/GaryFlynn/vrops-dashboards-epops-agent-version-7.5/raw/master/Sample_Dashboard.png" target="_blank"><img alt="Dashboard List" src="https://github.com/GaryFlynn/vrops-dashboards-epops-agent-version-7.5/raw/master/Sample_Dashboard.png" /></a>
+<a href="https://github.com/GaryFlynn/vrops-dashboards-epops-agent-version-7.5/raw/master/Sample_Dashboard.png" target="_blank"><img alt="Sample Dashboard" src="https://github.com/GaryFlynn/vrops-dashboards-epops-agent-version-7.5/raw/master/Sample_Dashboard.png" /></a>
 
 <h2>Installation</h2>
 
